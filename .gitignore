@@ -1,0 +1,23 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Go compiled binaries
+*.exe
+*.test
+*.out
+
+# Environment variables
+.env
+.env.*
+!.env.example
